@@ -1,0 +1,13 @@
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\MorseCode.deps.json
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\MorseCode.runtimeconfig.json
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\MorseCode.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\MorseCode.dll
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\MorseCode.pdb
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\Enigma.dll
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\bin\Release\netcoreapp2.0\Enigma.pdb
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.dll
+C:\Users\Alexander\source\repos\MorseCode\MorseCode\obj\Release\netcoreapp2.0\MorseCode.pdb

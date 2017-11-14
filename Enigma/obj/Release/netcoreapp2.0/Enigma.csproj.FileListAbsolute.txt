@@ -1,0 +1,9 @@
+C:\Users\Alexander\source\repos\MorseCode\Enigma\bin\Release\netcoreapp2.0\Enigma.deps.json
+C:\Users\Alexander\source\repos\MorseCode\Enigma\bin\Release\netcoreapp2.0\Enigma.dll
+C:\Users\Alexander\source\repos\MorseCode\Enigma\bin\Release\netcoreapp2.0\Enigma.pdb
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.dll
+C:\Users\Alexander\source\repos\MorseCode\Enigma\obj\Release\netcoreapp2.0\Enigma.pdb
